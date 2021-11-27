@@ -48,3 +48,8 @@ header {
     color: #0088a9;
 }
 
+.logo {
+    cursor: pointer;
+    width: 300px;
+}
+
