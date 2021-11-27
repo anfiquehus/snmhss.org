@@ -18,8 +18,10 @@ li, a, button {
 }
 
 header {
-    position: relative;
-    top:  25px;
+    position: fixed;
+    top:  20px;
+    right: 12px;
+    left: 12px;
     background-color:#0088a9;
     display: flex;
     justify-content: space-between;
