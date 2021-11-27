@@ -18,11 +18,13 @@ li, a, button {
 }
 
 header {
+    position: relative;
+    top:  25px;
     background-color:#0088a9;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 10%;
+    padding: 10px 10%;
     border-radius: 25px;
 }
 
