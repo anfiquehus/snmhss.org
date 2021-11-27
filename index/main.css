@@ -21,7 +21,7 @@ header {
     position: fixed;
     top:  20px;
     right: 12px;
-    left: 12px;
+    left: 120px;
     background-color:#0088a9;
     display: flex;
     justify-content: space-between;
