@@ -1,0 +1,22 @@
+.inner_body{
+	
+}
+
+
+
+.photo{
+	width:180px;
+	height: 250px;
+	background:#05f;
+	float:left;
+	padding:20px;
+	margin-left:115px;
+	margin-top:170px;
+	color:#fff;
+	font-size:14px;
+	text-align:center;
+	border-radius:20px;
+}
+
+.staffs-pho{
+	width:80;}
