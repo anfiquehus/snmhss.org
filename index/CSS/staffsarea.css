@@ -14,8 +14,6 @@
 	background:#ffffff;
 	float:left;
 	padding:50px;
-	margin-left:115px;
-	margin-top:170px;
 	font-size:14px;
 	text-align:center;
 	border-radius:20px;
@@ -24,7 +22,19 @@
 
 .staffs-title{
 	font-family: 'DM Sans', sans-serif;
-	background-color:#05f;
+	background-color:#ffffff;
 }
 .staffs-pho{
 	width:80;}
+
+
+
+.manager{
+	margin-left:115px;
+	margin-top:170px;
+}
+
+.jasmin{
+	margin-left:50px;
+	margin-top:80px;
+}
