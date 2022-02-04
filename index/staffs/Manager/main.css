@@ -1,1 +1,12 @@
-@font-face {font-family: 'oswald'; src: url('/font/oswald.regular.ttf'); }
+@font-face {font-family : 'Shree'; src: url('index/staffs/Manager/TTF/Shree-ML-502.ttf') format("truetype"); }
+
+.manpoint{
+    font-family: Shree;
+}
+
+
+.manphoto{
+    height: 80%;
+    width: 80%;
+    background-color: black;
+}
