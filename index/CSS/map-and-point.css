@@ -1,0 +1,34 @@
+.maplink{
+    border-radius: 25px;
+    border: 0.5px solid #D3D3D3;
+}
+
+.map{
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.mapbody{
+    width: px;
+	height: px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	float:left;
+	padding:40px;
+	font-size:14px;
+	text-align:center;
+    border-radius: 60px;
+    margin-left: 170px;
+	margin-top:270px;
+}
+
+.mp-inner_body{
+    width:100px;
+    height:150%;
+}
+
+.mapicon{
+    height:50px;
+    width:50px;
+    margin-top: ;
+    margin-bottom: ;
+}
